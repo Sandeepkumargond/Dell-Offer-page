@@ -1,0 +1,220 @@
+.Desktop{
+position: relative;
+width: 1250px;
+height: 650px;
+
+background: linear-gradient(90.34deg, #6F4EA3 -1.02%, #EAAFC8 122.14%);
+}
+
+/* Vostro 3520 Laptop */
+.Vostro{
+position: absolute;
+width: 583px;
+height: 80px;
+left: 137px;
+top: 153px;
+
+font-family: 'Red Hat Display';
+font-style: normal;
+font-weight: 700;
+font-size: 40px;
+line-height: 73px;
+
+color: #FFFFFF;
+
+}
+
+/* Intel® UHD Graphics */
+.Intel{
+position: absolute;
+width: 459px;
+height: 92px;
+left: 137px;
+top: 446px;
+
+font-family: 'Red Hat Display';
+font-style: normal;
+font-weight: 700;
+font-size: 25px;
+line-height: 53px;
+
+color: #FFFFFF;
+}
+
+
+
+
+/* Rectangle 1 */
+.Rectangle{
+position: absolute;
+width: 436px;
+height: 92px;
+left: 137px;
+top: 320px;
+
+background: #BC85A1;
+border-radius: 8px;
+box-shadow: 0px 2px 20px 1px #1d912c;
+
+}
+
+/* From ₹46,989.98 */
+.Form{
+position: absolute;
+width: 331px;
+height: 53px;
+left: 184.66px;
+top: 338px;
+
+font-family: 'Red Hat Display';
+font-style: normal;
+font-weight: 700;
+font-size: 30px;
+line-height: 53px;
+/* identical to box height */
+
+color: #FFFFFF;
+}
+
+
+/* rs */
+.rs{
+    position: absolute;
+    width: 310px;
+    height: 92px;
+    left: 137px;
+    top: 320px;
+    
+    background: hsl(329, 29%, 63%);
+    border-radius: 8px;
+    background: #BC85A1;
+    box-shadow: 0px 2px 20px 1px hsl(329, 29%, 63%);
+    
+
+    }
+    
+    
+
+/* saveupto */
+.save{
+position: absolute;
+width: 363px;
+height: 92px;
+left: 137px;
+top: 539px;
+
+}
+
+
+/* Rectangle 1 */
+.Rectangle{
+box-sizing: border-box;
+
+position: absolute;
+width: 313px;
+height: 92px;
+left: 136px;
+top: 510px;
+
+border: 2px dashed #ffffff;
+border-radius: 10px;
+background: rgb(49, 186, 85);
+
+}
+/* save upto 20% */
+.saveupto{
+position: absolute;
+width: 269px;
+height: 46px;
+left: 194px;
+top: 532px;
+
+font-family: 'Red Hat Display';
+font-style: normal;
+font-weight: 500;
+font-size: 25px;
+line-height: 46px;
+text-transform: uppercase;
+
+color: #FFFFFF;
+
+}
+
+/* sale */
+.sale{
+position: absolute;
+width: 295px;
+height: 295px;
+left: 853px;
+top: 60px;
+
+}
+
+/* Polygon 1 */
+.Polygon{
+position: absolute;
+width: 320px;
+height: 115px;
+left: 755px;
+top: 25px;
+
+border-radius: 6px;
+box-shadow: 0px 4px 22px 10px #ba1369;
+}
+
+/* End Of Reason Sale */
+.End{
+position: absolute;
+width: 300px;
+height: 156px;
+left: 770px;
+top: 55px;
+
+font-family: 'Bebas Neue';
+font-style: normal;
+font-weight: 300;
+font-size: 35px;
+line-height: 58px;
+text-align: center;
+color: #a90e0e;
+}
+
+/* laptop */
+.Laptop{
+position:absolute;
+width: 690px;
+height: 475px;
+left: 560px;
+top: 170px;
+background: url(pics/laptop-vostro-16-5640-fpr-gy-gallery-2.webp);
+}
+
+/* OIP 1 */
+.OIP{
+position: absolute;
+width: 53px;
+height: 53px;
+left: 137px;
+top: 60px;
+
+background: url(pics/OIP\ 1.png);
+border-radius: 37px;
+
+}
+/* 12th Gen Intel® Core™ i5-1235U */
+.Gen{
+position: absolute;
+width: 557px;
+height: 53px;
+left: 137px;
+top: 233px;
+
+font-family: 'Red Hat Display';
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 53px;
+/* identical to box height */
+
+color: #FFFFFF;
+}
